@@ -1,1 +1,1 @@
-# Image-Upload-Preview
+# Image Upload Preview
